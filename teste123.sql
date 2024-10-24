@@ -3,3 +3,6 @@ go
 
 select  from teste
 go
+
+select  * from teste
+go
